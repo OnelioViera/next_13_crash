@@ -5,9 +5,10 @@ const Header = () => {
     <header className="header">
       <div className="container">
           <div className="logo">
-            <Link href="/">Onelio Viera</Link><br />SoftWare Engineer
+            <Link href="/">Onelio Viera</Link><span className='span '>SoftWare Engineer</span>
           </div>
           <div className="links">
+            <Link href="/">Home</Link>
             <Link href="/about">About</Link>
             <Link href="/about/journey">Journey</Link>
             <Link href="/code/repos/">Code</Link>
