@@ -5,11 +5,11 @@ const Header = () => {
     <header className="header">
       <div className="container">
           <div className="logo">
-            <Link href="/">Viera Media</Link>
+            <Link href="/">Onelio Viera</Link><br />SoftWare Engineer
           </div>
           <div className="links">
             <Link href="/about">About</Link>
-            <Link href="/about/team">Our Team</Link>
+            <Link href="/about/journey">Journey</Link>
             <Link href="/code/repos/">Code</Link>
           </div>
       </div>     
